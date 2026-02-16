@@ -4,6 +4,7 @@ const int g = 22;
 const int b = 21;
 
 void setup(){
+    // Initialise all the pins to be OUTPUT pins
     pinMode(r, OUTPUT);
     pinMode(g, OUTPUT);
     pinMode(b, OUTPUT);
